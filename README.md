@@ -62,9 +62,9 @@
 ### Contact:
 <a href="mailto:"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" align="left" width="32" height="32" /></a>
 <a href="https://www.facebook.com/hoanglinh371">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" align="left" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/facebook.svg" align="left" width="32" height="32" />
 </a>
 <a href="https://www.linkedin.com/in/linh-nguy%E1%BB%85n-097ba0247/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/facebook.svg" align="left" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" align="left" width="32" height="32" />
 </a>
 
