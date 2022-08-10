@@ -36,14 +36,14 @@
 <img src="./svgs/angular-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/redux.svg" align="left" width="32" height="32" />
 <img src="./svgs/redux-saga.svg" align="left" width="32" height="32" />
-<img src="./svgs/react-route.svg" align="left" width="32" height="32" />
+<img src="./svgs/react-router.svg" align="left" width="32" height="32" />
 <img src="./svgs/tailwindcss-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/bootstrap.svg" align="left" width="32" height="32" />
 <img src="./svgs/material-ui.svg" align="left" width="32" height="32" />
 <img src="./svgs/ant-design.svg" align="left" width="32" height="32" />
 <img src="./svgs/graphql.svg" align="left" width="32" height="32" />
-<img src="./svgs/iconic-icon.svg" align="left" width="32" height="32" />
-<img src="./svgs/nest-js.svg" align="left" width="32" height="32" />
+<img src="./svgs/ionic-icon.svg" align="left" width="32" height="32" />
+<img src="./svgs/nestjs.svg" align="left" width="32" height="32" />
 <img src="./svgs/laravel.svg" align="left" width="32" height="32" />
 <img src="./svgs/reactivex.svg" align="left" width="32" height="32" />
 <img src="./svgs/jwt-icon.svg" align="left" width="32" height="32" />
