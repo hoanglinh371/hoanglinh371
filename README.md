@@ -39,7 +39,7 @@
 <img src="./svgs/react-router.svg" align="left" width="32" height="32" />
 <img src="./svgs/tailwindcss-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/bootstrap.svg" align="left" width="32" height="32" />
-<img src="./svgs/material-ui.svg" align="left" width="32" height="32" />
+<img src="./svgs/material-ui.svg" width="32" height="32" />
 <img src="./svgs/ant-design.svg" align="left" width="32" height="32" />
 <img src="./svgs/graphql.svg" align="left" width="32" height="32" />
 <img src="./svgs/ionic-icon.svg" align="left" width="32" height="32" />
@@ -80,7 +80,7 @@
 <img src="./svgs/nodejs-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/firebase.svg" align="left" width="32" height="32" />
 <img src="./svgs/nginx.svg" align="left" width="32" height="32" />
-<img src="./svgs/apache.svg" align="left" width="32" height="32" />
+<img src="./svgs/apache.svg" width="32" height="32" />
 <img src="./svgs/archlinux.svg" align="left" width="32" height="32" />
 <img src="./svgs/manjaro.svg" align="left" width="32" height="32" />
 <img src="./svgs/yarn.svg" align="left" width="32" height="32" />
