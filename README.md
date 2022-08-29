@@ -9,9 +9,7 @@
 <img src="./svgs/visual-studio-code.svg" align="left" width="32" height="32" />
 <img src="./svgs/visual-studio.svg" align="left" width="32" height="32" />
 <img src="./svgs/phpstorm.svg" align="left" width="32" height="32" />
-<img src="./svgs/intellij-idea.svg" align="left" width="32" height="32" />
 <img src="./svgs/docker-icon.svg" align="left" width="32" height="32" />
-<img src="./svgs/figma.svg" align="left" width="32" height="32" />
 <img src="./svgs/postman-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/xampp.svg" align="left" width="32" height="32" />
 
@@ -24,8 +22,6 @@
 <img src="./svgs/javascript.svg" align="left" width="32" height="32" />
 <img src="./svgs/typescript-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/php.svg" align="left" width="32" height="32" />
-<img src="./svgs/c-sharp.svg" align="left" width="32" height="32" />
-<img src="./svgs/java.svg" align="left" width="32" height="32" />
 <br />
 
 ---
@@ -42,12 +38,9 @@
 <img src="./svgs/material-ui.svg" width="32" height="32" />
 <img src="./svgs/ant-design.svg" align="left" width="32" height="32" />
 <img src="./svgs/graphql.svg" align="left" width="32" height="32" />
-<img src="./svgs/ionic-icon.svg" align="left" width="32" height="32" />
-<img src="./svgs/nestjs.svg" align="left" width="32" height="32" />
 <img src="./svgs/laravel.svg" align="left" width="32" height="32" />
 <img src="./svgs/reactivex.svg" align="left" width="32" height="32" />
 <img src="./svgs/jwt-icon.svg" align="left" width="32" height="32" />
-<img src="./svgs/nx.svg" align="left" width="32" height="32" />
 <br />
 
 ---
@@ -60,23 +53,11 @@
 
 ---
 
-### Testing:
-
-<img src="./svgs/jasmine.svg" align="left" width="32" height="32" />
-<img src="./svgs/jest.svg" align="left" width="32" height="32" />
-<img src="./svgs/karma.svg" align="left" width="32" height="32" />
-<img src="./svgs/testing-library.svg" align="left" width="32" height="32" />
-<img src="./svgs/chai.svg" align="left" width="32" height="32" />
-<br />
-
----
-
 ### Others:
 
 <img src="./svgs/html-5.svg" align="left" width="32" height="32" />
 <img src="./svgs/css-3.svg" align="left" width="32" height="32" />
 <img src="./svgs/sass.svg" align="left" width="32" height="32" />
-<img src="./svgs/gulp.svg" align="left" width="32" height="32" />
 <img src="./svgs/nodejs-icon.svg" align="left" width="32" height="32" />
 <img src="./svgs/firebase.svg" align="left" width="32" height="32" />
 <img src="./svgs/nginx.svg" align="left" width="32" height="32" />
