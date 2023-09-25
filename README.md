@@ -5,6 +5,7 @@
 ---
 
 ### Tools:
+![React](https://img.shields.io/badge/react-%2324272f?style=for-the-badge&logo=react&link=https%3A%2F%2Freact.dev%2F)
 
 <img src="./svgs/visual-studio-code.svg" align="left" width="32" height="32" />
 <img src="./svgs/visual-studio.svg" align="left" width="32" height="32" />
